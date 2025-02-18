@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Foode-del
 # Food-del
 # Food-del
+# Newapp
